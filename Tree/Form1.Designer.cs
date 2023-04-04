@@ -59,7 +59,7 @@
             this.Controls.Add(this.label);
             this.Controls.Add(this.button);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Дерево принятия решений";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
